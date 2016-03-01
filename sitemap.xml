@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.m2login.com/news/2016/02/29/start/</loc>
+    <lastmod>2016-03-01T07:34:32.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.m2login.com/doc/id_m2.html</loc>
     <lastmod>2016-03-01T07:29:07.000Z</lastmod>
   </url>
@@ -24,11 +29,6 @@
   <url>
     <loc>http://www.m2login.com/index.html</loc>
     <lastmod>2016-03-01T05:26:03.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.m2login.com/news/2014/03/01/UnionPass-2-7-start/</loc>
-    <lastmod>2014-12-25T06:47:32.000Z</lastmod>
   </url>
   
 </urlset>
