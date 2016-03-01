@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[UnionPass]]></title>
+  <subtitle><![CDATA[mobile auth]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.mauth.cn/"/>
+  <updated>2016-03-01T06:10:28.204Z</updated>
+  <id>http://www.mauth.cn/</id>
+  
+  <author>
+    <name><![CDATA[John Doe]]></name>
+    <email><![CDATA[services@mauth.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Start]]></title>
+    <link href="http://www.mauth.cn/news/2014/03/01/UnionPass-2-7-start/"/>
+    <id>http://www.mauth.cn/news/2014/03/01/UnionPass-2-7-start/</id>
+    <published>2014-02-28T16:00:00.000Z</published>
+    <updated>2014-12-25T06:47:32.000Z</updated>
+    <content type="html"><![CDATA[<p>UnionPass项目正式启动.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>UnionPass项目正式启动.</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
